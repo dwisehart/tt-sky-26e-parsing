@@ -16,7 +16,7 @@ combinational 8-bit adder. The parser RTL has not been added yet. The output is
 `uio_out` and `uio_oe` are zero. Clock, reset, and enable do not affect this
 placeholder.
 
-The requested 4x2 tile allocation is intended for development of the future
+The requested 2x2 tile allocation is intended for development of the future
 parser; its fit and 25 MHz clock target have not yet been validated.
 
 ## How to test
